@@ -3,12 +3,13 @@ Kennesaw State University - CPE 4800 Senior Design Proposal - Professor Hai Ho 2
 
 ## Overview
 ### Description
+The ReptiSense Integrated Reptile Enclosure is a fully integrated enclosure that automates enclosure humidity, heating, lighting and feeding via an embedded control system while interfacing with a mobile user application to provide real-time updates, manual system control, and viewing of live cameras & interactive infrared heat maps. Additionally, the system will integrate with edge-based machine learning to provide adaptive updates and advice based on an animal's observed behavior.
 
 ### Team
-#### Chandler Thornton
-#### Corey Mackey
-#### Alseny Diallo
-#### Andy Phan
+Chandler Thornton
+Corey Mackey
+Alseny Diallo
+Andy Phan
 
 ## Technical
 ### Documents
@@ -17,8 +18,17 @@ All important files can be found at (https://drive.google.com/drive/folders/10bb
 - Formal Project Proposal Document
 - In-class project proposal presentation
 - System Requirements Document
+- Bill of Materials
 - ...
-- ...
+
+### Features
+- Ambient humidity / temperature sensing
+- Surface temperature sensing via IR camera
+- Live camera view streaming
+- Automated control system/time based lighting/heating
+- Automated control system/time based misting
+- Automated time based feeding
+- Mobile user application
 
 ## Procedures
 This set of rules and procedures lays ground work that will keep the team's project organized throughout the year.
@@ -31,7 +41,6 @@ This set of rules and procedures lays ground work that will keep the team's proj
 
 #### Version Control Policy
 New features and changes should be broken up into digestible commits that can easily be reviewed. Commits should not be incomplete or excessively large.
-
 To protect against versioning issues & confusion, a ruleset has been applied to the repository including:
 - Block all force pushes
 - Restrict deletions
