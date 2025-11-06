@@ -1,0 +1,2 @@
+source /Users/corey/PlatformIO/Projects/senior_project/.pio/build/seeed_xiao_esp32c6/gdbinit/symbols
+source /Users/corey/PlatformIO/Projects/senior_project/.pio/build/seeed_xiao_esp32c6/gdbinit/connect
